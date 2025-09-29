@@ -24,6 +24,8 @@ A carefully crafted wallpaper collection
 
 ![9](wallpapers/9.png)
 
+![10](wallpapers/10.png)
+
 ## License
 
 [MIT License](LICENSE)
