@@ -4,8 +4,22 @@ A carefully crafted wallpaper collection
 
 ## Preview
 
-[1](wallpapers/3c144.png)
+![1](wallpapers/3c144.png)
 
-[2](wallpapers/4a948.png)
+![2](wallpapers/4a948.png)
 
-[3](wallpapers/4bc07.png)
+![3](wallpapers/4bc07.png)
+
+![4](wallpapers/4d5b0.png)
+
+![5](wallpapers/4d38a.png)
+
+![6](wallpapers/6ac8a.png)
+
+![7](wallpapers/7e5c8.png)
+
+![8](wallpapers/39a7f.png)
+
+![9](wallpapers/baeda.png)
+
+![10](wallpapers/e8919.png)
