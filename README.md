@@ -7,6 +7,10 @@ A carefully crafted wallpaper collection
 
 ## Preview
 
+<details>
+
+<summary>Wallpapers</summary>
+
 ![0](wallpapers/0.png)
 
 ![1](wallpapers/1.png)
@@ -34,6 +38,8 @@ A carefully crafted wallpaper collection
 ![12](wallpapers/12.png)
 
 ![13](wallpapers/13.png)
+
+</details>
 
 ## License
 
