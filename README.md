@@ -39,6 +39,8 @@ A carefully crafted wallpaper collection
 
 ![13](wallpapers/13.png)
 
+![14](wallpapers/14.png)
+
 </details>
 
 ## License
