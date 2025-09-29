@@ -2,7 +2,7 @@
 
 A carefully crafted wallpaper collection
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mentiferous/wallco?style=for-the-badge&logo=github&label=%20&color=%23ff528b)
+![GitHub repo size](https://img.shields.io/github/repo-size/mentiferous/wallco?style=for-the-badge&logo=github&label=%20&color=%23ff08b9)
 ![GitHub License](https://img.shields.io/github/license/mentiferous/wallco?style=for-the-badge&labelColor=%239e1fff&color=%23ff08b9)
 
 ## Preview
