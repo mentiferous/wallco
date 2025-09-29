@@ -23,3 +23,7 @@ A carefully crafted wallpaper collection
 ![9](wallpapers/baeda.png)
 
 ![10](wallpapers/e8919.png)
+
+## License
+
+[MIT License](LICENSE)
