@@ -43,6 +43,10 @@ A carefully crafted wallpaper collection
 
 ![15](wallpapers/15.png)
 
+![16](wallpapers/16.png)
+
+![17](wallpapers/17.png)
+
 </details>
 
 ## License
