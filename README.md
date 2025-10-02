@@ -57,6 +57,14 @@ A carefully crafted wallpaper collection
 
 ![22](wallpapers/22.png)
 
+![23](wallpapers/23.png)
+
+![24](wallpapers/24.png)
+
+![25](wallpapers/25.png)
+
+![26](wallpapers/26.png)
+
 </details>
 
 ## License
