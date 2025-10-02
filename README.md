@@ -47,6 +47,16 @@ A carefully crafted wallpaper collection
 
 ![17](wallpapers/17.png)
 
+![18](wallpapers/18.png)
+
+![19](wallpapers/19.png)
+
+![20](wallpapers/20.png)
+
+![21](wallpapers/21.png)
+
+![22](wallpapers/22.png)
+
 </details>
 
 ## License
