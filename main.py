@@ -6,13 +6,13 @@ from rich.table import Table
 
 WALLPAPER_DIR = Path("wallpapers")
 
-wallpaper_count = len(list(WALLPAPER_DIR.iterdir()))
+wallpaper_ct = len(list(WALLPAPER_DIR.iterdir()))
 
 table = Table(box=box.MINIMAL)
 
 table.add_column("wallco", justify="center")
 
-table.add_row(f"{wallpaper_count} wallpapers")
+table.add_row(f"{wallpaper_ct} wallpapers")
 
 console = Console()
 
