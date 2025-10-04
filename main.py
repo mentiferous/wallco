@@ -12,7 +12,7 @@ table = Table(box=box.MINIMAL)
 
 table.add_column("wallco", justify="center")
 
-table.add_row(f"{WALLPAPER_DIR} {wallpaper_count}")
+table.add_row(f"{wallpaper_count} wallpapers")
 
 console = Console()
 
