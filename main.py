@@ -1,18 +1,18 @@
-from os import listdir
+from pathlib import Path
 
 from rich import box
 from rich.console import Console
 from rich.table import Table
 
-WALLPAPER_DIR = "wallpapers"
+WALLPAPER_DIR = Path("wallpapers")
 
-wallpaper_count = len(listdir(WALLPAPER_DIR))
+wallpaper_count = len(list(WALLPAPER_DIR.iterdir()))
 
 table = Table(box=box.MINIMAL)
 
 table.add_column("wallco", justify="center")
 
-table.add_row(f"/{WALLPAPER_DIR} {wallpaper_count}")
+table.add_row(f"{WALLPAPER_DIR} {wallpaper_count}")
 
 console = Console()
 
