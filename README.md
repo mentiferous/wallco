@@ -1,4 +1,4 @@
-# `wallco`
+# wallco
 
 A carefully crafted wallpaper collection
 
