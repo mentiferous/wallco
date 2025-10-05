@@ -2,8 +2,8 @@
 
 A carefully crafted wallpaper collection
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/mentiferous/wallco?style=for-the-badge&logo=github&logoSize=auto&label=%20&color=%23ff38ca)](https://github.com/mentiferous/wallco)
-[![GitHub License](https://img.shields.io/github/license/mentiferous/wallco?style=for-the-badge&labelColor=%239452ff&color=%239452ff)](https://github.com/mentiferous/wallco/blob/main/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/mentiferous/wallco?style=for-the-badge&logo=github&logoSize=auto&label=%20&color=%23a078ff)](https://github.com/mentiferous/wallco)
+[![GitHub License](https://img.shields.io/github/license/mentiferous/wallco?style=for-the-badge&label=%20&color=%23a078ff)](https://github.com/mentiferous/wallco/blob/main/LICENSE)
 
 ---
 
