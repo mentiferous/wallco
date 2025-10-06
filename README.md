@@ -63,6 +63,12 @@ A carefully crafted wallpaper collection
 
 </details>
 
+## Usage
+
+```sh
+python -m wallco
+```
+
 ## License
 
 [MIT License](LICENSE)
