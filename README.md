@@ -1,6 +1,6 @@
 # wallco
 
-A carefully crafted wallpaper collection
+*A carefully crafted wallpaper collection*
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/mentiferous/wallco?style=for-the-badge&logo=github&logoSize=auto&label=%20&color=%23a078ff)](https://github.com/mentiferous/wallco)
 [![GitHub license](https://img.shields.io/github/license/mentiferous/wallco?style=for-the-badge&label=%20&color=%23a078ff)](LICENSE)
