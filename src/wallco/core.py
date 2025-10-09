@@ -16,10 +16,10 @@ if not WALLPAPER_DIR.is_dir():
 def main():
     wallpaper_ct = sum(1 for _ in WALLPAPER_DIR.iterdir())
 
-    table = Table(box=box.MINIMAL)
+    table = Table(box=box.SIMPLE_HEAD, style="purple")
 
     table.add_column("wallco", justify="center")
 
-    table.add_row(f"{wallpaper_ct} wallpapers")
+    table.add_row(f"[b][purple]{wallpaper_ct}[/b][default] wallpapers")
 
     console.print(table)
